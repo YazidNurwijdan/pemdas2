@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pemdas2105", "pemdas2105\pemdas2105.vcxproj", "{CA0A7684-AEF6-4893-A5E1-069CC8CCD4C0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "komposisi", "komposisi\komposisi.vcxproj", "{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CA0A7684-AEF6-4893-A5E1-069CC8CCD4C0}.Release|x64.Build.0 = Release|x64
 		{CA0A7684-AEF6-4893-A5E1-069CC8CCD4C0}.Release|x86.ActiveCfg = Release|Win32
 		{CA0A7684-AEF6-4893-A5E1-069CC8CCD4C0}.Release|x86.Build.0 = Release|Win32
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Debug|x64.ActiveCfg = Debug|x64
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Debug|x64.Build.0 = Debug|x64
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Debug|x86.Build.0 = Debug|Win32
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Release|x64.ActiveCfg = Release|x64
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Release|x64.Build.0 = Release|x64
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Release|x86.ActiveCfg = Release|Win32
+		{C241F2F8-1592-4C70-B78F-7D91EA8C78DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
